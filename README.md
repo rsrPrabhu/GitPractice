@@ -25,7 +25,6 @@ mkdir   ===  creates folder
 touch filename.filextension(index.html)  ===  create file with this name
 vi filename.filextension(index.html)  ===  create and open the file with this name in cmd
 
-git pw :: Prabhu@199322
 
 git config user.name    retrieves the configured Name
 git config user.email   retrieves the configured mail Id
